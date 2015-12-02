@@ -1,0 +1,88 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala -> C:\Users\Slishu\exercism\scala\gigasecond\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_66\lib\resources.jar;C:\Program Files\Java\jre1.8.0_66\lib\rt.jar;C:\Program Files\Java\jre1.8.0_66\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_66\lib\jce.jar;C:\Program Files\Java\jre1.8.0_66\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_66\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\dev\scalaIDE\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+2 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> C:\Users\Slishu\exercism\scala\gigasecond\bin\Gigasecond$.class
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> C:\Users\Slishu\exercism\scala\gigasecond\bin\Gigasecond.class
+binary dependencies:
+2 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> C:\dev\scalaIDE\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> C:\Program Files\Java\jre1.8.0_66\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> Gigasecond
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> Gigasecond$
+used names:
+0 items
+product stamps:
+2 items
+C:\Users\Slishu\exercism\scala\gigasecond\bin\Gigasecond$.class -> lastModified(1448811998456)
+C:\Users\Slishu\exercism\scala\gigasecond\bin\Gigasecond.class -> lastModified(1448811998480)
+source stamps:
+1 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> hash(2b9c68e07fe3a9de4fe564af1d98b14ec865bfe3)
+binary stamps:
+2 items
+C:\dev\scalaIDE\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1442869419018)
+C:\Program Files\Java\jre1.8.0_66\lib\rt.jar -> lastModified(1448313915848)
+class names:
+2 items
+C:\dev\scalaIDE\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Product
+C:\Program Files\Java\jre1.8.0_66\lib\rt.jar -> java.io.Serializable
+internal apis:
+1 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAgeuk3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAKR2lnYXNlY29uZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBUc3EAfgBHcQB+AEpzcQB+AEtzcQB+AE51cQB+AFEAAAADc3EAfgBTdAAEamF2YXNxAH4AU3QAAmlvcQB+AFhzcQB+AEd0AAdQcm9kdWN0cQB+AE1zcQB+AEd0AAZFcXVhbHNxAH4ATXNxAH4AR3QABk9iamVjdHNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFNxAH4AXnNxAH4AU3QABGxhbmdxAH4AWHNxAH4AR3QAA0FueXEAfgBNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVFT7KfLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQALUM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXGJpbnQAOEM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXHNyY1xtYWluXHNjYWxhdXIAAltCrPMX+AYIVOACAAB4cAAAABQrnGjgf+Op3k/lZK8dmLFOyGW/4w==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Slishu\exercism\scala\gigasecond\src\main\scala\gigasecond.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUNT6vbN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALUM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXGJpbnQAOEM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXHNyY1xtYWluXHNjYWxh
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUNT+nOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALUM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXGJpbnQAOEM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXHNyY1xtYWluXHNjYWxh
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVPsp8t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALUM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXGJpbnQAOEM6XFVzZXJzXFNsaXNodVxleGVyY2lzbVxzY2FsYVxnaWdhc2Vjb25kXHNyY1xtYWluXHNjYWxh
