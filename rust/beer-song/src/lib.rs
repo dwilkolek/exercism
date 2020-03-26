@@ -10,12 +10,7 @@ pub fn verse(n: u32) -> String {
 pub fn sing(start: u32, end: u32) -> String {
     (end..start + 1)
         .rev()
-        .map(|n| (n, verse(n)))
-        .fold(String::from(""), |mut acc, tuple| {
-            acc.push_str(&tuple.1);
-            if tuple.0 != end {
-                acc.push_str("\n");
-            }
-            acc
-        })
+        .map(verse)
+        .collect::<Vec<String>>()
+        .join("\n")
 }
