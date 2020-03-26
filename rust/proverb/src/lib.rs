@@ -1,6 +1,6 @@
 pub fn build_proverb(list: &[&str]) -> String {
     if list.is_empty() {
-        String::from("")
+        String::new()
     } else {
         _build_proverb(list, &*list[0])
     }
